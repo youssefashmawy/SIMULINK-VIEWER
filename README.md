@@ -41,8 +41,10 @@ The BlockGUI Application consists of the following Java classes:
 - [Path](https://github.com/youssefashmawy/SIMULINK-VIEWER/blob/main/Path.png)
 
 ## Authors 
-- Leader: [Youssef Wael](https://github.com/youssefashmawy) 2001430
-- [Yousef Shawky](https://github.com/thedarkevil987)  2001500
-- [Omar Saleh](https://github.com/MrMariodude)  2001993
-- [Fathy Abdlhady](https://github.com/fathy-abdlhady-f)  2001152
 
+| Name  | ID | Section |
+| ------------- | ------- |---|
+| [Youssef Wael Hamdy Ibrahim](https://github.com/youssefashmawy)  | 2001430 | 4 |
+| [Yousef Shawky Mohamed](https://github.com/thedarkevil987)  | 2001500  | 2 |
+| [Omar Saleh Mohamed Abdo](https://github.com/MrMariodude)  | 2001993  | 4 |
+| [Fathy Abdlhady Fathy](https://github.com/fathy-abdlhady-f)  | 2001152  | 2 |
