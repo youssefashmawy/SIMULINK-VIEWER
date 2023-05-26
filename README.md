@@ -37,8 +37,8 @@ The BlockGUI Application consists of the following Java classes:
 
 ## UML diagrams
 - [Main](https://github.com/youssefashmawy/SIMULINK-VIEWER/blob/main/Main.png)
-- [Block]()
-- [Path]()
+- [Block](https://github.com/youssefashmawy/SIMULINK-VIEWER/blob/main/Block.png)
+- [Path](https://github.com/youssefashmawy/SIMULINK-VIEWER/blob/main/Path.png)
 
 ## Authors 
 - Leader: [Youssef Wael](https://github.com/youssefashmawy) 2001430
